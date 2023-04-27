@@ -70,7 +70,7 @@ trend. A popularity had been seen among the users for responsive sites as it ser
 • User are able to read information as per their needs and preferences <br>
 • Helps encountering fast and intelligent sites <br>
 • Saves user time while browsing the site <br>
-• Helps increasing the user experience <br>
+• Helps to increasing the user experience <br>
 
 ## 🚀 Deployment <a name = "deployment"></a>
 ## How To deploy your websites in Github
@@ -126,6 +126,7 @@ Step 6: Final Deployment
 - Inspiration 
 ## Junie Denny Solomon
 ## Bhupendra Parihar
+##Ethan Marcotte
 - References <br>
 
 1)"The Next Web" (https://thenextweb.com/) - This website is a great example of a responsive design that looks great on desktop and mobile devices alike. <br>
