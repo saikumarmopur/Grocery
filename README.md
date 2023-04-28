@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="blob:https://web.whatsapp.com/f0f04e6a-41b6-4f76-8521-b1ed9644006d"></a>
 </p>
 
 <h3 align="center">Responsive Website</h3>The responsive web site solves the compatibility problems of web pages displayed at different resolutions, different platforms, and different screen sizes, and also brings high-quality experience to users.
