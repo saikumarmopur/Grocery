@@ -129,10 +129,4 @@ Step 6: Final Deployment
 ## Ethan Marcotte
 - References <br>
 
-1)"The Next Web" (https://thenextweb.com/) - This website is a great example of a responsive design that looks great on desktop and mobile devices alike. <br>
-
-2)"Treehouse" (https://teamtreehouse.com/) - Treehouse is a platform for learning web development and design, and their website is a great example of a responsive design that uses a clean and modern layout. <br>
-
-3)"Boston Globe" (https://www.bostonglobe.com/) - The Boston Globe is a newspaper website that has a responsive design that is optimized for news consumption on all devices. <br>
-
-4)"CSS Tricks" (https://css-tricks.com/) - CSS Tricks is a website dedicated to helping web designers and developers with tips and tricks for working with CSS. Their website is a great example of a responsive design that is easy to navigate and looks great on all devices. <br>
+1.Skill-lync
